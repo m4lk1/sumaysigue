@@ -4,7 +4,7 @@
     },
     "autoload":{
         "psr-4":{
-            "\\sumaysugye\\modelo\\":"modelo/"
+            "sumaysugye\\modelo\\":"modelo/"
         }
     }
 }
